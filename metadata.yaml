@@ -1,0 +1,34 @@
+_repo: Exit-Betty_30759
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30759-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Hill, Grace Livingston
+    aliases:
+    - Livingston, Grace
+    - Lutz, Grace Livingston Hill
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2299'
+    url: http://www.gutenberg.org/2009/agents/2299
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Livingston_Hill
+description: What would you do if you were duped into marrying your own stepbrother?
+  That's the conundrum facing Betty, the beautiful heroine of this charming romance
+  novel from Grace Livingston Hill. Initially fragile and meek, Betty uses the horrifying
+  situation she's placed in as a way to develop independence. Fans of classic romance
+  will enjoy this uplifting tale.
+gutenberg_issued: '2009-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Religious fiction'
+title: Exit Betty
+url: http://www.gutenberg.org/ebooks/30759
